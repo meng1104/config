@@ -1,0 +1,3 @@
+logging:
+  file: logs/${spring.application.name}.log
+endpoints.restart.enabled: true
