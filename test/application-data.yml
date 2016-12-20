@@ -1,4 +1,0 @@
-
-spring.redis:
-   host: 42.62.93.53
-   port: 6379

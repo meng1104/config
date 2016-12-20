@@ -1,6 +1,4 @@
-server:
-    port: 81
-    session.timeout: -1
+
 
 
 #accounturi: mongodb://test.hwlantian.com:27017
